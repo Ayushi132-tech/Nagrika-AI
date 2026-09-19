@@ -1,4 +1,4 @@
-### Nagrika AI
+# Nagrika AI
 
 ### AI-Powered Civic Problem Reporting & Intelligence Platform
 
