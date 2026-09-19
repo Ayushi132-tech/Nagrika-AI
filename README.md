@@ -1,4 +1,4 @@
-## Nagrika AI
+### Nagrika AI
 
 ### AI-Powered Civic Problem Reporting & Intelligence Platform
 
@@ -110,7 +110,6 @@ The frontend is built with React and Vite, providing a modern development and pr
 ## Deployment
 
 The application is deployed using:
-
 **Vercel**
 
 ---
@@ -133,6 +132,7 @@ Nagrika-AI/
 ├── package-lock.json    # Locked dependency versions
 ├── vite.config.js       # Vite configuration
 └── README.md            # Project documentation
+
 ---
 
 ## 🎯 Problem Statement
@@ -249,6 +249,7 @@ Civic Report
 ┌──────────────────┐
 │ Civic Insight    │
 └──────────────────┘
+
 ---
 
 ## 🔮 Future Roadmap
@@ -305,7 +306,6 @@ Support multiple Indian languages to improve accessibility for a wider range of 
 Future versions could explore integrations with appropriate civic authorities or public-service systems.
 
 ---
-
 ## 🚀 Deployment
 
 Nagrika AI is deployed on Vercel.
@@ -344,16 +344,12 @@ If you find Nagrika AI interesting, consider:
 - 💡 **Suggest improvements**
 - 🤝 **Contribute code**
 - 📢 **Share the project**
----
-## 🔗 Links
 
+---
+
+## 🔗 Links
  Resource Link 
   🌐 Live Demo = https://nagrika-ai.vercel.app 
   💻 GitHub Repository = https://github.com/Ayushi132-tech/Nagrika-AI 
 
----
 
-🔗 Links
-Resource	Link
-🌐 Live Demo	https://nagrika-ai.vercel.app
-💻 GitHub Repository	https://github.com/Ayushi132-tech/Nagrika-AI
